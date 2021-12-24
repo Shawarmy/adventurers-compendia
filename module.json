@@ -1,0 +1,104 @@
+{
+  "name": "players-compendia",
+  "title": "Player's Compendia",
+  "author": "Shawarmy",
+  "version": "1.0.0",
+  "minimumCoreVersion": "0.5.0",
+  "compatibleCoreVersion": "3.2.1",
+  "packs": [
+    {
+      "name": "backgrounds",
+      "label": "Backgrounds (PC)",
+      "path": "packs/backgrounds.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "bestiary",
+      "label": "Bestiary (PC)",
+      "path": "packs/bestiary.db",
+      "module": "players-compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "bestiaryfeatures",
+      "label": "Bestiary Features (PC)",
+      "path": "packs/bestiaryfeatures.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "classfeatures",
+      "label": "Class Features (PC)",
+      "path": "packs/classfeatures.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "classes",
+      "label": "Classes (PC)",
+      "path": "packs/classes.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "items",
+      "label": "Items (PC)",
+      "path": "packs/items.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "macros",
+      "label": "Macros (PC)",
+      "path": "packs/macros.db",
+      "module": "players-compendia",
+      "entity": "Macro"
+    },
+    {
+      "name": "rules",
+      "label": "Rules (PC)",
+      "path": "packs/rules.db",
+      "module": "players-compendia",
+      "entity": "JournalEntry"
+    },
+    {
+      "name": "species",
+      "label": "Species (PC)",
+      "path": "packs/species.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "speciestraits",
+      "label": "Species Traits (PC)",
+      "path": "packs/speciestraits.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "spells",
+      "label": "Spells (PC)",
+      "path": "packs/spells.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
+      "name": "summons",
+      "label": "Summons (PC)",
+      "path": "packs/summons.db",
+      "module": "players-compendia",
+      "entity": "Actor"
+    },
+    {
+      "name": "transformations",
+      "label": "Transformations (PC)",
+      "path": "packs/transformations.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    }
+  ],
+  "url": "https://github.com/Shawarmy/players-compendia",
+  "manifest": "https://github.com/Shawarmy/players-compendia/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Shawarmy/players-compendia/releases/download/1.0.0/module.zip"
+}
