@@ -14,20 +14,6 @@
       "entity": "Item"
     },
     {
-      "name": "bestiary",
-      "label": "Bestiary (PC)",
-      "path": "packs/bestiary.db",
-      "module": "players-compendia",
-      "entity": "Actor"
-    },
-    {
-      "name": "bestiaryfeatures",
-      "label": "Bestiary Features (PC)",
-      "path": "packs/bestiaryfeatures.db",
-      "module": "players-compendia",
-      "entity": "Item"
-    },
-    {
       "name": "classfeatures",
       "label": "Class Features (PC)",
       "path": "packs/classfeatures.db",
