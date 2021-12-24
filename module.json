@@ -77,6 +77,13 @@
       "entity": "Actor"
     },
     {
+      "name": "tables",
+      "label": "Tables (PC)",
+      "path": "packs/tables.db",
+      "module": "players-compendia",
+      "entity": "RollTable"
+    },
+    {
       "name": "transformations",
       "label": "Transformations (PC)",
       "path": "packs/transformations.db",
