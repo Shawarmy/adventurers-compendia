@@ -28,6 +28,13 @@
       "entity": "Item"
     },
     {
+      "name": "feats",
+      "label": "Feats (PC)",
+      "path": "packs/feats.db",
+      "module": "players-compendia",
+      "entity": "Item"
+    },
+    {
       "name": "items",
       "label": "Items (PC)",
       "path": "packs/items.db",
@@ -82,6 +89,13 @@
       "path": "packs/tables.db",
       "module": "players-compendia",
       "entity": "RollTable"
+    },
+    {
+      "name": "talents",
+      "label": "Talents (PC)",
+      "path": "packs/talents.db",
+      "module": "players-compendia",
+      "entity": "Item"
     },
     {
       "name": "transformations",
