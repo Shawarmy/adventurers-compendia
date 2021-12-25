@@ -1,6 +1,6 @@
 {
-  "name": "players-compendia",
-  "title": "Player's Compendia",
+  "name": "adventurers-compendia",
+  "title": "Adventurer's Compendia",
   "author": "Shawarmy",
   "version": "1.0.0",
   "minimumCoreVersion": "0.5.0",
@@ -8,104 +8,104 @@
   "packs": [
     {
       "name": "backgrounds",
-      "label": "Backgrounds (PC)",
+      "label": "Backgrounds (AC)",
       "path": "packs/backgrounds.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "classfeatures",
-      "label": "Class Features (PC)",
+      "label": "Class Features (AC)",
       "path": "packs/classfeatures.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "classes",
-      "label": "Classes (PC)",
+      "label": "Classes (AC)",
       "path": "packs/classes.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "feats",
-      "label": "Feats (PC)",
+      "label": "Feats (AC)",
       "path": "packs/feats.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "items",
-      "label": "Items (PC)",
+      "label": "Items (AC)",
       "path": "packs/items.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "macros",
-      "label": "Macros (PC)",
+      "label": "Macros (AC)",
       "path": "packs/macros.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Macro"
     },
     {
       "name": "rules",
-      "label": "Rules (PC)",
+      "label": "Rules (AC)",
       "path": "packs/rules.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "JournalEntry"
     },
     {
       "name": "species",
-      "label": "Species (PC)",
+      "label": "Species (AC)",
       "path": "packs/species.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "speciestraits",
-      "label": "Species Traits (PC)",
+      "label": "Species Traits (AC)",
       "path": "packs/speciestraits.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "spells",
-      "label": "Spells (PC)",
+      "label": "Spells (AC)",
       "path": "packs/spells.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "summons",
-      "label": "Summons (PC)",
+      "label": "Summons (AC)",
       "path": "packs/summons.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Actor"
     },
     {
       "name": "tables",
-      "label": "Tables (PC)",
+      "label": "Tables (AC)",
       "path": "packs/tables.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "RollTable"
     },
     {
       "name": "talents",
-      "label": "Talents (PC)",
+      "label": "Talents (AC)",
       "path": "packs/talents.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     },
     {
       "name": "transformations",
-      "label": "Transformations (PC)",
+      "label": "Transformations (AC)",
       "path": "packs/transformations.db",
-      "module": "players-compendia",
+      "module": "adventurers-compendia",
       "entity": "Item"
     }
   ],
-  "url": "https://github.com/Shawarmy/players-compendia",
-  "manifest": "https://github.com/Shawarmy/players-compendia/releases/download/1.0.0/module.json",
-  "download": "https://github.com/Shawarmy/players-compendia/releases/download/1.0.0/module.zip"
+  "url": "https://github.com/Shawarmy/adventurers-compendia",
+  "manifest": "https://github.com/Shawarmy/adventurers-compendia/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Shawarmy/adventurers-compendia/releases/download/1.0.0/module.zip"
 }
