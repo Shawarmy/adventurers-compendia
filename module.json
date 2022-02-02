@@ -70,6 +70,13 @@
       "entity": "Macro"
     },
     {
+      "name": "otherfeatures",
+      "label": "Other Features (SOC)",
+      "path": "packs/otherfeatures.db",
+      "module": "omnicodex",
+      "entity": "Item"
+    },
+    {
       "name": "rules",
       "label": "Rules (SOC)",
       "path": "packs/rules.db",
