@@ -1,6 +1,6 @@
 {
-  "name": "adventurers-compendia",
-  "title": "Adventurer's Compendia",
+  "name": "omnicodex",
+  "title": "Secrets of the Omnicodex",
   "author": "Shawarmy",
   "version": "1.0.0",
   "minimumCoreVersion": "0.5.0",
@@ -8,104 +8,118 @@
   "packs": [
     {
       "name": "backgrounds",
-      "label": "Backgrounds (AC)",
+      "label": "Backgrounds (SOC)",
       "path": "packs/backgrounds.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
+      "name": "cards",
+      "label": "Cards (SOC)",
+      "path": "packs/cards.db",
+      "module": "omnicodex",
+      "entity": "Card"
+    },
+    {
       "name": "classfeatures",
-      "label": "Class Features (AC)",
+      "label": "Class Features (SOC)",
       "path": "packs/classfeatures.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
       "name": "classes",
-      "label": "Classes (AC)",
+      "label": "Classes (SOC)",
       "path": "packs/classes.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
+      "name": "companions",
+      "label": "Companions (SOC)",
+      "path": "packs/companions.db",
+      "module": "omnicodex",
+      "entity": "Actor"
+    },
+    {
       "name": "feats",
-      "label": "Feats (AC)",
+      "label": "Feats (SOC)",
       "path": "packs/feats.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
       "name": "items",
-      "label": "Items (AC)",
+      "label": "Items (SOC)",
       "path": "packs/items.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
+      "name": "keywords",
+      "label": "Keywords (SOC)",
+      "path": "packs/keywords.db",
+      "module": "omnicodex",
+      "entity": "JournalEntry"
+    },
+    {
       "name": "macros",
-      "label": "Macros (AC)",
+      "label": "Macros (SOC)",
       "path": "packs/macros.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Macro"
     },
     {
       "name": "rules",
-      "label": "Rules (AC)",
+      "label": "Rules (SOC)",
       "path": "packs/rules.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "JournalEntry"
     },
     {
       "name": "species",
-      "label": "Species (AC)",
+      "label": "Species (SOC)",
       "path": "packs/species.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
       "name": "speciestraits",
-      "label": "Species Traits (AC)",
+      "label": "Species Traits (SOC)",
       "path": "packs/speciestraits.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
       "name": "spells",
-      "label": "Spells (AC)",
+      "label": "Spells (SOC)",
       "path": "packs/spells.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
-      "name": "summons",
-      "label": "Summons (AC)",
-      "path": "packs/summons.db",
-      "module": "adventurers-compendia",
-      "entity": "Actor"
-    },
-    {
       "name": "tables",
-      "label": "Tables (AC)",
+      "label": "Tables (SOC)",
       "path": "packs/tables.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "RollTable"
     },
     {
       "name": "talents",
-      "label": "Talents (AC)",
+      "label": "Talents (SOC)",
       "path": "packs/talents.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     },
     {
       "name": "transformations",
-      "label": "Transformations (AC)",
+      "label": "Transformations (SOC)",
       "path": "packs/transformations.db",
-      "module": "adventurers-compendia",
+      "module": "omnicodex",
       "entity": "Item"
     }
   ],
-  "url": "https://github.com/Shawarmy/adventurers-compendia",
-  "manifest": "https://github.com/Shawarmy/adventurers-compendia/releases/download/1.0.0/module.json",
-  "download": "https://github.com/Shawarmy/adventurers-compendia/releases/download/1.0.0/module.zip"
+  "url": "https://github.com/Shawarmy/omnicodex",
+  "manifest": "https://github.com/Shawarmy/omnicodex/releases/download/1.0.0/module.json",
+  "download": "https://github.com/Shawarmy/omnicodex/releases/download/1.0.0/module.zip"
 }
